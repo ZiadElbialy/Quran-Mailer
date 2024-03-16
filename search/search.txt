@@ -1,0 +1,8 @@
+ltr	Text direction goes from left-to-right. This is default
+
+rtl	Text direction goes from right-to-left
+
+initial	Sets this property to its default value
+
+inherit	Inherits this property from its parent element.
+
